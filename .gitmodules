@@ -1,0 +1,6 @@
+[submodule "mars-api"]
+	path = mars-api
+	url = git@github.com:kkd26/mars-api.git
+[submodule "mars-ui"]
+	path = mars-ui
+	url = git@github.com:kkd26/mars-ui.git
